@@ -1,2 +1,1 @@
-this is master new test
-this is feat/test test
+this is release default
