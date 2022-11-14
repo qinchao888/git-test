@@ -1,3 +1,4 @@
 this is release default
 this is a revert test
 this is feat/test change
+this is squash change
